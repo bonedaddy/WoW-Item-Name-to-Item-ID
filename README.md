@@ -4,4 +4,7 @@ This list was formatted for a python program I am writing.
 
 All information was scraped from wowdb's JSON api
 
+
+itemdb is an SQLITE3 database 
+
 Last updated: 12/21/2016
